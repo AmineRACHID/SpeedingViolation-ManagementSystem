@@ -180,18 +180,41 @@ authentification Page with Keycloak
 
 vehicules Page
 <div>
-<img src="https://github.com/AmineRACHID/TP5_architecture_micro-service/assets/127174852/96fed872-971f-492d-acb3-038a22e3beeb">
+<img src="https://github.com/AmineRACHID/SpeedingViolation-ManagementSystem/assets/127174852/53800370-7cf1-4f6f-9977-4aa9a853fa6c">
 </div>
+
+AddVehicule Page
+<div>
+<img src="https://github.com/AmineRACHID/SpeedingViolation-ManagementSystem/assets/127174852/7d132783-d31c-43d4-91a9-9555a3cbab5f">
+</div>
+
+UpdateVehicules Page
+<div>
+<img src="https://github.com/AmineRACHID/SpeedingViolation-ManagementSystem/assets/127174852/f5defcd9-f0a7-49dc-a7a4-f0cef7e9dbdf">
+</div>
+
+Proprietaires Page
+<div>
+<img src="https://github.com/AmineRACHID/SpeedingViolation-ManagementSystem/assets/127174852/6b130684-3f76-4241-be20-4375282d9661">
+</div>
+
+AddProprietaire Page
+<div>
+<img src="https://github.com/AmineRACHID/SpeedingViolation-ManagementSystem/assets/127174852/17176641-394a-49bb-81b5-09f90c88bf89">
+</div>
+
+UpdateProprietaire Page
+<div>
+<img src="https://github.com/AmineRACHID/TP5_architecture_micro-service/assets/127174852/36507d3a-9b02-4669-be3e-82090e2514d4">
+</div>
+
 
 infractions Page
 <div>
 <img src="https://github.com/AmineRACHID/TP5_architecture_micro-service/assets/127174852/d32bc6ac-a27b-4e7c-9111-2eff798dbce8">
 </div>
 
-proprietaire Page
-<div>
-<img src="https://github.com/AmineRACHID/TP5_architecture_micro-service/assets/127174852/36507d3a-9b02-4669-be3e-82090e2514d4">
-</div>
+
 
 radar Page
 <div>
