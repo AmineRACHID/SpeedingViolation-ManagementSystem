@@ -205,18 +205,26 @@ AddProprietaire Page
 
 UpdateProprietaire Page
 <div>
-<img src="https://github.com/AmineRACHID/TP5_architecture_micro-service/assets/127174852/36507d3a-9b02-4669-be3e-82090e2514d4">
+<img src="https://github.com/AmineRACHID/SpeedingViolation-ManagementSystem/assets/127174852/bff93b4f-5e14-42fd-ab01-ac655270f7d6">
 </div>
 
 
 infractions Page
 <div>
-<img src="https://github.com/AmineRACHID/TP5_architecture_micro-service/assets/127174852/d32bc6ac-a27b-4e7c-9111-2eff798dbce8">
+<img src="https://github.com/AmineRACHID/SpeedingViolation-ManagementSystem/assets/127174852/048a5c59-e3a6-445d-a58e-9d471629e0c9">
 </div>
-
-
 
 radar Page
 <div>
-<img src="https://github.com/AmineRACHID/TP5_architecture_micro-service/assets/127174852/4710ba91-142e-43ad-bc43-816a23de889d">
+<img src="https://github.com/AmineRACHID/SpeedingViolation-ManagementSystem/assets/127174852/a39a0fca-6853-4d2b-9ca3-1f86c72da34c">
+</div>
+
+AddRadar Page
+<div>
+<img src="https://github.com/AmineRACHID/SpeedingViolation-ManagementSystem/assets/127174852/91aff92a-36cd-4d48-a620-f8ee9dbf59b0">
+</div>
+
+UpdateRadar Page
+<div>
+<img src="https://github.com/AmineRACHID/SpeedingViolation-ManagementSystem/assets/127174852/2cda9c98-babc-4291-9053-62c847781c2d">
 </div>
