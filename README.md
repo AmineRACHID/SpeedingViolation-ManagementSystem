@@ -169,3 +169,31 @@ updateRadar
 <div>
 <img src="https://github.com/AmineRACHID/TP5_architecture_micro-service/assets/127174852/22ed85bc-4b88-4ff5-b1be-77b5d2436e2e">
 </div>
+
+
+## Frontend with Angular
+
+authentification Page with Keycloak
+<div>
+<img src="https://github.com/AmineRACHID/SpeedingViolation-ManagementSystem/assets/127174852/895f8f41-0cdb-428a-a09d-e89930000890">
+</div>
+
+vehicules Page
+<div>
+<img src="https://github.com/AmineRACHID/TP5_architecture_micro-service/assets/127174852/96fed872-971f-492d-acb3-038a22e3beeb">
+</div>
+
+infractions Page
+<div>
+<img src="https://github.com/AmineRACHID/TP5_architecture_micro-service/assets/127174852/d32bc6ac-a27b-4e7c-9111-2eff798dbce8">
+</div>
+
+proprietaire Page
+<div>
+<img src="https://github.com/AmineRACHID/TP5_architecture_micro-service/assets/127174852/36507d3a-9b02-4669-be3e-82090e2514d4">
+</div>
+
+radar Page
+<div>
+<img src="https://github.com/AmineRACHID/TP5_architecture_micro-service/assets/127174852/4710ba91-142e-43ad-bc43-816a23de889d">
+</div>
